@@ -20,3 +20,6 @@ Formatting output using options like +%R (time) and +%x (date)
 Running multiple commands on a single line using a semicolon
 
 This lab reinforced how efficiency in the command line comes from understanding simple tools and combining them effectively. These basics show up everywhere in scripting, automation, and system administration, so mastering them early matters.
+
+#update 21st of january 2026
+i uploaded a mini project i worked on with python, this is still me working on my DevOps skills!
