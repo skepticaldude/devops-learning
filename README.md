@@ -23,3 +23,6 @@ This lab reinforced how efficiency in the command line comes from understanding 
 
 #update 21st of january 2026
 i uploaded a mini project i worked on with python, this is still me working on my DevOps skills!
+
+#update 26th of january 2026
+i added a program printing even or odd numbers, still working with python!
