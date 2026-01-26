@@ -31,3 +31,5 @@ i uploaded a mini project i worked on with python, this is still me working on m
 
 #update 26th of january 2026
 i added a program printing even or odd numbers, still working with python!
+
+i added a script demonstrating loops and exception handling which is the number_analyzer.py 
