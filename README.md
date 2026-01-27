@@ -51,3 +51,6 @@ Functions can be used to encapsulate reusable code and perform specific tasks. I
 
 we wrote a function program to calculate the area of something, i think i understand how parameters works a bit better now 
 
+I'm learning on default arguments
+Default arguments allow you to initialize parameters with a fallback value if no argument is provided during the function call.
+
