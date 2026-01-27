@@ -80,4 +80,6 @@ NameError: If you call a function before its definition, Python will raise a Nam
 Exception (Inside Other Functions): You can call a function inside another function even if the definition appears later in the file, provided the final "trigger" call happens after both are defined.
 
 this simply means that you must call a function esp locally before it runs  ###########
+remember:
+To modify a global variable inside a function, use the global keyword:
 
