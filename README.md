@@ -54,3 +54,6 @@ we wrote a function program to calculate the area of something, i think i unders
 I'm learning on default arguments
 Default arguments allow you to initialize parameters with a fallback value if no argument is provided during the function call.
 
+still yet to understand functions on returning multiple values 
+ill add a project so i can come back to this!!
+
