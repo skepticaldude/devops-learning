@@ -49,3 +49,5 @@ This function takes a name parameter and returns a greeting string. We then call
 The return statement is used to return a value from the function. If no return statement is present, the function returns None.
 Functions can be used to encapsulate reusable code and perform specific tasks. It's the main building block of Python programs.
 
+we wrote a function program to calculate the area of something, i think i understand how parameters works a bit better now 
+
