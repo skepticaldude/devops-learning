@@ -66,3 +66,5 @@ Unpacking: You can assign the results directly to multiple variables in one line
 Pro Tip: If you only need the maximum and want to ignore the minimum, developers often use an underscore for the unwanted value:
 _, maximum = min_max([1, 5, 3])
 
+Spoiler: Python will throw a ValueError because it expects the number of variables to match the number of returned items exactly!
+
