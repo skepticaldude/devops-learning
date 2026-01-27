@@ -69,4 +69,15 @@ _, maximum = min_max([1, 5, 3])
 Spoiler: Python will throw a ValueError because it expects the number of variables to match the number of returned items exactly!
 
 #### scope in functions 
+Definition Before Invocation
+The Core Rule:
+A function must be defined (using the def keyword) before it can be called (executed). Because Python reads code from top to bottom, it needs to store the function name in memory before it can use it.
+
+Key Points:
+
+Top-Down Flow: Python processes script instructions sequentially.
+NameError: If you call a function before its definition, Python will raise a NameError: name '...' is not defined.
+Exception (Inside Other Functions): You can call a function inside another function even if the definition appears later in the file, provided the final "trigger" call happens after both are defined.
+
+this simply means that you must call a function esp locally before it runs  ###########
 
