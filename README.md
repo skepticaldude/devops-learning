@@ -57,3 +57,12 @@ Default arguments allow you to initialize parameters with a fallback value if no
 still yet to understand functions on returning multiple values 
 ill add a project so i can come back to this!!
 
+this is the note generated from labex! i'll come back to this hopefully
+
+Python Multi-Value Returns
+Concept: Functions can return multiple results separated by commas.
+Mechanism: Python packs these values into a Tuple.
+Unpacking: You can assign the results directly to multiple variables in one line.
+Pro Tip: If you only need the maximum and want to ignore the minimum, developers often use an underscore for the unwanted value:
+_, maximum = min_max([1, 5, 3])
+
