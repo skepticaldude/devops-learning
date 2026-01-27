@@ -68,3 +68,5 @@ _, maximum = min_max([1, 5, 3])
 
 Spoiler: Python will throw a ValueError because it expects the number of variables to match the number of returned items exactly!
 
+## scope in functions 
+
