@@ -41,3 +41,6 @@ i think i understand github a little better now, and it really is an excellent t
 
 wrote a small script that performs a countdown, i understand loops better now the range especially how it includes the start, stop and step in the parenthesis *still dont know if it's an argument* hopefully it'll make understanding nested loops a lot easier!
 
+## function in python 
+today i'll be working with functions in python
+
