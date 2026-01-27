@@ -44,3 +44,8 @@ wrote a small script that performs a countdown, i understand loops better now th
 ## function in python 
 today i'll be working with functions in python
 
+Functions are defined using the def keyword followed by the function name and parameters in parentheses. The function body is indented.
+This function takes a name parameter and returns a greeting string. We then call the function with the argument "Alice" and print the result.
+The return statement is used to return a value from the function. If no return statement is present, the function returns None.
+Functions can be used to encapsulate reusable code and perform specific tasks. It's the main building block of Python programs.
+
