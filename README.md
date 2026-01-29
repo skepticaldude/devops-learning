@@ -146,15 +146,18 @@ Python Tuples: Quick Reference
 Ordered and Immutable sequences.
 Defined using parentheses ().
 Example: coordinates = (10, 20)
+
 2. Immutability
 
 Once created, you cannot change, add, or remove elements.
 my_tuple[0] = 5 will raise a TypeError.
+
 3. Single-Item Tuples
 
 Must include a trailing comma, otherwise Python treats it as a standard value (e.g., an integer or string).
 Correct: single = (42,)
 Incorrect: not_a_tuple = (42)
+
 4. Operations
 
 Indexing: Access items like lists: my_tuple[0].
