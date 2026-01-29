@@ -115,15 +115,18 @@ i'm still yet to confirm if the modularization works here on github
 
 ### lists in python
 Python Lists: Quick Summary
+
 1. Definition
 
 Lists are ordered, mutable (changeable) collections of items.
 They are defined using square brackets [].
 Example: fruits = ["apple", "banana", "cherry"]
+
 2. Key Characteristic: Mutability
 
 Unlike tuples, lists can be modified after creation.
 You can change intermediate items: fruits[1] = "blueberry"
+
 3. Common Operations
 
 Accessing: Use index (e.g., fruits[0] for the first item, fruits[-1] for the last).
@@ -133,6 +136,7 @@ Adding:
 Removing:
 .remove(item): Removes a specific value.
 .pop(): Removes and returns the last item.
+
 4. Versatility
 
 Lists can store multiple data types at once (integers, strings, and even other lists).
