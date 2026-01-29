@@ -139,3 +139,27 @@ Lists can store multiple data types at once (integers, strings, and even other l
 Example: mixed_list = [1, "hello", 3.14]
 
 
+### python tuples
+Python Tuples: Quick Reference
+1. Definition
+
+Ordered and Immutable sequences.
+Defined using parentheses ().
+Example: coordinates = (10, 20)
+2. Immutability
+
+Once created, you cannot change, add, or remove elements.
+my_tuple[0] = 5 will raise a TypeError.
+3. Single-Item Tuples
+
+Must include a trailing comma, otherwise Python treats it as a standard value (e.g., an integer or string).
+Correct: single = (42,)
+Incorrect: not_a_tuple = (42)
+4. Operations
+
+Indexing: Access items like lists: my_tuple[0].
+Unpacking: Assign elements to variables in one step:
+x, y = (10, 20)
+Multiple Returns: Commonly used by functions to return more than one value.
+
+
