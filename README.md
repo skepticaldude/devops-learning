@@ -199,3 +199,36 @@ Membership Testing:
 
 "apple" in my_set: Returns True or False. This is extremely fast in sets compared to lists.
 
+### Python Dictionaries: Summary Note
+Definition:
+A Dictionary is a collection of key-value pairs. It is used to store data values like a map or a real-world phone book.
+
+Key Characteristics:
+
+Key-Value Pairs: Every item has a key (the label) and a value (the data).
+Mutable: You can change, add, or remove items after the dictionary is created.
+Unique Keys: Each key must be unique. If you assign a new value to an existing key, the old value is overwritten.
+Efficient: Finding a value by its key is extremely fast.
+Common Operations:
+
+Creation:
+
+# Using curly braces
+person = {"name": "Alice", "age": 25}
+Accessing & Modifying:
+
+person["name"]: Accesses the value associated with the key "name".
+person["age"] = 26: Updates the value for an existing key.
+person["city"] = "New York": Adds a new key-value pair.
+Removing Items:
+
+del person["age"]: Removes the key "age" and its value.
+person.pop("name"): Removes the key and returns the value.
+Useful Methods:
+
+.keys(): Returns a list of all keys.
+.values(): Returns a list of all values.
+.items(): Returns a list of tuples (key, value), perfect for looping.
+In your current Lab:
+In contact_manager.py, you are using a Nested Dictionary. The contacts dictionary uses a string (the name) as a key, and another dictionary as the value:
+contacts["Alice"] = {"phone": "123", "email": "alice@email.com"}
