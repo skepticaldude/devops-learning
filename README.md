@@ -213,7 +213,7 @@ Common Operations:
 
 Creation:
 
-# Using curly braces
+Using curly braces
 person = {"name": "Alice", "age": 25}
 Accessing & Modifying:
 
