@@ -170,3 +170,32 @@ x, y = (10, 20)
 Multiple Returns: Commonly used by functions to return more than one value.
 
 
+### Python Sets: Summary Note
+Definition:
+A Set is an unordered collection of unique elements. Sets are written with curly braces {}.
+
+Key Characteristics:
+
+Unordered: The items do not have a defined order; they may appear in a different order every time you use them.
+Unique: Duplicate elements are automatically removed.
+Unindexed: You cannot access items by referring to an index (e.g., my_set[0] will raise an error).
+Common Operations:
+
+Creation:
+
+my_set = {"apple", "banana", "cherry"}
+ comment: Or using the constructor
+numbers = set([1, 2, 2, 3]) # Result: {1, 2, 3}
+Adding & Removing:
+
+add("item"): Adds an element to the set.
+remove("item"): Removes a specific element (raises error if not found).
+Set Mathematics:
+
+set1.union(set2): Combines all elements from both sets.
+set1.intersection(set2): Returns only elements present in both sets.
+set1.difference(set2): Returns elements in set1 that are NOT in set2.
+Membership Testing:
+
+"apple" in my_set: Returns True or False. This is extremely fast in sets compared to lists.
+
