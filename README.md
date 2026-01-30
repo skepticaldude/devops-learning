@@ -232,3 +232,28 @@ Useful Methods:
 In your current Lab:
 In contact_manager.py, you are using a Nested Dictionary. The contacts dictionary uses a string (the name) as a key, and another dictionary as the value:
 contacts["Alice"] = {"phone": "123", "email": "alice@email.com"}
+
+
+### Final Project: Contact Manager Summary
+Goal: To build a real-world application using multiple data structures to manage contact information and favorites.
+
+Data Structures Used:
+
+Dictionaries ({}): Used as the primary database.
+
+Structure: contacts is a dictionary where the Key is the contact's name (string) and the Value is another dictionary containing detail labels like phone and email.
+Usage: Fast lookup and organized storage of complex data.
+Sets (set()): Used for the "Favorites" feature.
+
+Structure: favorite_contacts is a set containing only the names (strings) of people marked as favorites.
+Usage: Ensures names aren't duplicated in the favorites list and provides efficient membership checking.
+Functions and Control Flow:
+
+Functions: add_contact(), remove_contact(), and display_contacts() modularize the logic.
+While Loops: Keeps the program running until the user chooses to "Exit" (choice 6).
+If/Else Elif: Handles the menu logic based on user input.
+Practical Implementation Highlights:
+
+Nested Dictionaries: Accessing nested data using info['phone'] within a loop.
+Dynamic Updates: Using del contacts[name] to remove entries and contacts[name] = ... to add/update them.
+Input Handling: Using the input() function to interact with the user in the terminal.
