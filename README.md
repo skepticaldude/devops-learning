@@ -257,3 +257,6 @@ Practical Implementation Highlights:
 Nested Dictionaries: Accessing nested data using info['phone'] within a loop.
 Dynamic Updates: Using del contacts[name] to remove entries and contacts[name] = ... to add/update them.
 Input Handling: Using the input() function to interact with the user in the terminal.
+
+# Created a system Health monitor script 
+
