@@ -30,12 +30,10 @@ Set permissions:
 
 chmod +x monitor.sh
 
-Execute the monitor:
-
-./monitor.sh
+Execute the monitor:    ./monitor.sh
 
 ## Sample Output
 
-2024-01-26 14:44:17 [INFO] Disk usage: 2%
+2024-01-26 14:44:17 [INFO] Disk usage: 2% (percentage could vary)
 
 2024-01-26 14:44:17 [ERROR] Nginx service is down
