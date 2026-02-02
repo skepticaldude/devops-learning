@@ -52,3 +52,8 @@ Escaping (\): Preventing the shell from interpreting special characters.
 Single Quotes (' '): Strong quoting—the shell ignores all special characters inside.
 
 Double Quotes (" "): Weak quoting—allows variables and command substitution while treating most other characters as literal text.
+
+### Key Takeaways from RHEL File Management:
+* Used `ls -la` to see hidden system configuration files.
+* Learned that `rm -r` is used for recursive deletion of directories with content.
+* Mastered command substitution using `$(date)`.
