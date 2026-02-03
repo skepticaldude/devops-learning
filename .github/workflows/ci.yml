@@ -1,0 +1,11 @@
+# Check that the file is in the right place
+ls -R .github
+
+# Stage the new workflow file
+git add .github/workflows/ci.yml
+
+# Commit the change
+git commit -m "Add Node.js CI pipeline"
+
+# Push to GitHub
+git push origin main
