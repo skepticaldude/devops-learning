@@ -260,3 +260,4 @@ Input Handling: Using the input() function to interact with the user in the term
 
 # Created a system Health monitor script 
 
+![Node.js CI](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/actions/workflows/ci.yml/badge.svg)
