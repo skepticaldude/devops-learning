@@ -37,7 +37,7 @@ Symbolic (Soft) Links: Create a shortcut or pointer to another file using ln -s.
 
 Globbing: Use * (multi-char), ? (single-char), and [] (ranges) to select groups of files.
 
-Brace Expansion: Efficiently create or list items like file{1..3}.txt or report_{jan,feb}.log.
+Brace Expansion: Efficiently create or list items like file{1..3}.txt or report_{jan,feb}.log. #to list multiple files at once
 
 Tilde Expansion: Using ~ as a shortcut for the home directory.
 
