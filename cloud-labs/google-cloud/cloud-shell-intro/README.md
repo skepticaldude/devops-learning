@@ -1,9 +1,9 @@
-#Objective
+# Objective
 
-#Tools Used
+# Tools Used
 
-#Steps
+# Steps
 
-#Challenges
+# Challenges
 
-#Key Takeaways
+# Key Takeaways
