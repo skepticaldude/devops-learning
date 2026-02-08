@@ -25,8 +25,8 @@ This lab reinforced how efficiency in the command line comes from understanding 
 
 # Created a system Health monitor script 
 
-# Quick directories 
-
-* Python * [click here for python documentation and projects](https://github.com/skepticaldude/devops-learning/tree/main/python)
+# Index 
+click any of the following for their content or subcontent
+* [python](https://github.com/skepticaldude/devops-learning/tree/main/python)
 
 ![Node.js CI](https://github.com/skepticaldude/devops-learning/actions/workflows/ci.yml/badge.svg) 
