@@ -1,1 +1,0 @@
-# Sample content from python folder file1.py
