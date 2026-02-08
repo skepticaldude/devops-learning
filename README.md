@@ -28,5 +28,6 @@ This lab reinforced how efficiency in the command line comes from understanding 
 # Index 
 click any of the following for their content or subcontent
 * [python](https://github.com/skepticaldude/devops-learning/tree/main/python)
+  * [system health monitor script project](https://github.com/skepticaldude/devops-learning/tree/main/LabEx%2FSystem%20Health%20Monitor%20Script) 
 
 ![Node.js CI](https://github.com/skepticaldude/devops-learning/actions/workflows/ci.yml/badge.svg) 
