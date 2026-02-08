@@ -70,13 +70,27 @@ gcloud auth list
 export ZONE=us-central1-a
 
 ```
-thi
-# Filtering Command-Line Output
+
+## Filtering Command-Line Output
 ```bash
 gcloud compute instances list
 gcloud compute instances list --filter="name:gcelab2"
 gcloud compute instances list --format="table(name,zone,status)"
 ```
+## Connect to Compute Engine VM
+```bash
+gcloud compute ssh gcelab2 --zone $ZONE
+
+```
+after that exit vm session
+```bash
+
+exit
+
+```
+
+
+
 
 
 
