@@ -11,3 +11,7 @@ Document DevOps projects and progress.
 
 ![Node.js CI](https://github.com/skepticaldude/devops-learning/actions/workflows/ci.yml/badge.svg) 
 still yet to work on this now im seeing it's a ![Node.js CI](hmmm/ci.yml/badge.svg)
+#Progress Update 2/10 
+* connected my first Virtual machine yesterday
+* understanding more on what cloud computing is all about 
+* and understanding that Devops is more of a culture than a live hard skill 
