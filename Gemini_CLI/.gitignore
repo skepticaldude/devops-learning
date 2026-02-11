@@ -1,1 +1,23 @@
+# Environment files (API keys, secrets)
+.env
+*.env
+
+# API key files
+*.key
+*.secret
+*.token
+
+# Logs (sometimes contain info)
+*.log
+
+# AI/Gemini specific temporary files
+.gemini/
+
+# Node / Python dependencies
+node_modules/
+__pycache__/
+
+# Build folders
+dist/
+build/
 
