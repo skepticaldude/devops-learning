@@ -23,4 +23,6 @@ still yet to work on this now im seeing it's a ![Node.js CI](hmmm/ci.yml/badge.s
 it's been 8 days, i've lost touch with some concepts but i'm back on this 
 working with GCP and also gemini CLI
 * created a vm instance with GCP (Google Cloud Platform)
-* 
+* i installed an NGINX Web server
+* i also created a new instance with gcloud
+looked around the console, saw load balancers and kubernetes, IAM and some other things, still yet to grasp those contexts, but now, i can clearly create a VM instance (basically a virtual machine), how to attrubute specifications to that machine
