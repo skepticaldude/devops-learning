@@ -22,3 +22,5 @@ still yet to work on this now im seeing it's a ![Node.js CI](hmmm/ci.yml/badge.s
 # Progress Update 2/18
 it's been 8 days, i've lost touch with some concepts but i'm back on this 
 working with GCP and also gemini CLI
+* created a vm instance with GCP (Google Cloud Platform)
+* 
