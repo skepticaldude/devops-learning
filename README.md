@@ -17,3 +17,8 @@ still yet to work on this now im seeing it's a ![Node.js CI](hmmm/ci.yml/badge.s
 * connected my first Virtual machine yesterday
 * understanding more on what cloud computing is all about 
 * and understanding that Devops is more of a culture than a live hard skill 
+
+
+# Progress Update 2/18
+it's been 18 days, i've lost touch with some concepts but i'm back on this 
+working with GCP and also gemini CLI
