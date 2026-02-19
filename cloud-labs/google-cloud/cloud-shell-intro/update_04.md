@@ -42,7 +42,7 @@ This lets me:
 This flexibility helps me:
 - Avoid overprovisioning
 - Optimize performance
-- Control costs more effectively
+- Control costs more effectively.
 
 ---
 
