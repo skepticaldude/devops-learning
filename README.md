@@ -13,13 +13,13 @@ Document DevOps projects and progress.
 still yet to work on this now im seeing it's a ![Node.js CI](hmmm/ci.yml/badge.svg) 
 
 
-# Progress Update 2/10 
+# Progress Update 10 feb 2026
 * connected my first Virtual machine yesterday
 * understanding more on what cloud computing is all about 
 * and understanding that Devops is more of a culture than a live hard skill 
 
 
-# Progress Update 2/18
+# Progress Update 18 feb 2026
 it's been 8 days, i've lost touch with some concepts but i'm back on this 
 working with GCP and also gemini CLI
 ### GSP001
@@ -27,3 +27,6 @@ working with GCP and also gemini CLI
 * i installed an NGINX Web server
 * i also created a new instance with gcloud
 looked around the console, saw load balancers and kubernetes, IAM and some other things, still yet to grasp those contexts, but now, i can clearly create a VM instance (basically a virtual machine), how to attribute specifications to the machine i work with 
+
+# Progress Update 20 feb 2026
+Forgot to include an update yesterday but i did a few things and started my google clouds learning properly 
