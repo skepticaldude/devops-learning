@@ -20,4 +20,4 @@ You’ll remember that VPCs belong to Google Cloud projects, but what if your co
 
 With VPC Peering, a relationship between two VPCs can be established to exchange traffic.
 
-Alternatively, to use the full power of Identity Access Management (IAM) to control who and what in one project can interact with a VPC in another, you can configu
+Alternatively, to use the full power of Identity Access Management (IAM) to control who and what in one project can interact with a VPC in another, you can configure shared VPC
