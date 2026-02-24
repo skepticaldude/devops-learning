@@ -1,4 +1,8 @@
 There are four primary storage classes in Cloud Storage.
+1. standard (brief period of time)
+2. nearline storage (must be modified on average once a month)
+3. coldline storage (must be modified on average at least once in 90 days)
+4. archive storage ( must be modified on average at least once in a year)
 
 The first is Standard Storage.
 
@@ -32,7 +36,11 @@ These include: Unlimited storage with no minimum object size requirement, worldw
 
 uniform experience, which extends to security, tools, and APIs, and geo-redundancy if data is stored in a multi-region or dual-region.
 
+### now what is geo-redundancy?
+
 This means placing physical servers in geographically diverse data centers to protect against catastrophic events and natural disasters, and load-balancing traffic for optimal performance.
+
+### autoclass
 
 Cloud Storage also provides a feature called Autoclass, which automatically transitions objects to appropriate storage classes based on each object's access pattern.
 
@@ -56,7 +64,11 @@ But what if you have to upload terabytes or even petabytes of data?
 
 Storage Transfer Service enables you to import large amounts of online data into Cloud Storage quickly and cost-effectively.
 
+### storage transfer service
+
 The Storage Transfer Service lets you schedule and manage batch transfers to Cloud Storage from another cloud provider, from a different Cloud Storage region, or from an HTTP(S) endpoint.
+
+### transfer appliance
 
 And then there is the Transfer Appliance, which is a rackable, high-capacity storage server that you lease from Google Cloud.
 
