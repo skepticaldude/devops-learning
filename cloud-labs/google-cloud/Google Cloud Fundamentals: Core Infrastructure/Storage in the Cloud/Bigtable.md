@@ -1,4 +1,4 @@
-The last of Google Cloud’s core storage options we’re going to explore is Bigtable.
+The last of Google Cloud’s core storage options we’re going to explore is Bigtable. 
 
 Bigtable is Google's NoSQL big data database service.
 
@@ -30,8 +30,15 @@ layer like Managed VMs, the HBase REST Server, or a Java Server using the HBase 
 
 Typically this is used to serve data to applications, dashboards, and data services.
 
-Data can also be streamed in through a variety of popular stream processing frameworks like Dataflow Streaming, Spark Streaming, and Storm.
+Data can also be streamed in through a variety of popular stream processing frameworks like; 
+* Dataflow Streaming
+* Spark Streaming
+* and Storm.
 
-And if streaming is not an option, data can also be read from and written to Bigtable through batch processes like Hadoop MapReduce, Dataflow, or Spark.
+And if streaming is not an option, data can also be read from and written to Bigtable through batch processes like
+* Hadoop
+* MapReduce
+* Dataflow
+* Spark.
 
 Often, summarized or newly calculated data is written back to Bigtable or to a downstream database.
