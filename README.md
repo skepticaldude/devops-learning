@@ -33,3 +33,9 @@ Forgot to include an update yesterday but i did a few things and started my goog
 
 # Progress Update 28 feb 2026
 Just realised i don't code so much on saturdays and this should change, i guess
+i think i should be building more, but i'll give a summary of what i've understood so far; 
+* DevOps is basically a culture, how to use tools, how to manage pipelines, automation, CI/CD (Continous Integration and deployment)
+* i've gotten more familiar with development tools
+* the shell sounds more familiar, i understand how it can do the same thing with console and gui but the shell seems more intricate because you simply just tell the computer what to do and you can touch down to the kernel with linux
+* this is why linux is very important for every devops engr
+* i've decided to venture into cloud, SRE (site reliablility engineering), DevOps and sysadmin stuff. 
