@@ -30,3 +30,6 @@ looked around the console, saw load balancers and kubernetes, IAM and some other
 
 # Progress Update 20 feb 2026
 Forgot to include an update yesterday but i did a few things and started my google clouds learning properly 
+
+# Progress Update 28 feb 2026
+Just realised i don't code so much on saturdays and this should change, i guess
