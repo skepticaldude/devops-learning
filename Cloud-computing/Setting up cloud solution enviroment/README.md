@@ -56,6 +56,8 @@ New data analysts would need to be added to the data_analyst group.
 
 Managing permissions and rules at a group level is easier than keeping track of permissions for individual users.
 
+// note this
+
 Data analysts need to access the data in the dataset or table, so they require the bigquery.dataViewer role at the proper level.
 
 Queries in BigQuery are executed as an executable job.
