@@ -38,4 +38,7 @@ i think i should be building more, but i'll give a summary of what i've understo
 * i've gotten more familiar with development tools
 * the shell sounds more familiar, i understand how it can do the same thing with console and gui but the shell seems more intricate because you simply just tell the computer what to do and you can touch down to the kernel with linux
 * this is why linux is very important for every devops engr
-* i've decided to venture into cloud, SRE (site reliablility engineering), DevOps and sysadmin stuff. 
+* i've decided to venture into cloud, SRE (site reliablility engineering), DevOps and sysadmin stuff.
+
+  # Progress Update 02 mar 2026
+* setting up my cloud solution enviroment using the cymbal superstore
