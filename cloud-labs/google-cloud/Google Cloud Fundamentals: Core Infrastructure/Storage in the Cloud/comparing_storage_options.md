@@ -4,7 +4,7 @@ Consider using Cloud Storage if you need to store immutable blobs larger than 10
 
 This storage service provides petabytes of capacity with a maximum unit size of 5 terabytes per object.
 
->[!NOTE]
+>[!CLOUD SQL]
 >Consider using Cloud SQL or Spanner if you need full SQL support for an online transaction processing system.
 >
 >Cloud SQL provides up to 64 terabytes, depending on machine type, and Spanner provides petabytes.
