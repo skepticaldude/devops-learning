@@ -4,7 +4,7 @@ Consider using Cloud Storage if you need to store immutable blobs larger than 10
 
 This storage service provides petabytes of capacity with a maximum unit size of 5 terabytes per object.
 
->[!CLOUD SQL]
+>CLOUD SQL
 >Consider using Cloud SQL or Spanner if you need full SQL support for an online transaction processing system.
 >
 >Cloud SQL provides up to 64 terabytes, depending on machine type, and Spanner provides petabytes.
@@ -17,9 +17,14 @@ Consider Firestore if you need massive scaling and predictability together with 
 
 This storage service provides terabytes of capacity with a maximum unit size of 1 megabyte per entity.
 
-Firestore is best for storing, syncing, and querying data for mobile and web apps.
+>FIRESTORE
+>
+> Firestore is best for storing, syncing, and querying data for mobile and web apps.
+>
 
-Finally, consider using Bigtable if you need to store a large number of structured objects.
+> BIG TABLE
+>
+> Finally, consider using Bigtable if you need to store a large number of structured objects.
 
 Bigtable doesn’t support SQL queries, nor does it support multi-row transactions.
 
