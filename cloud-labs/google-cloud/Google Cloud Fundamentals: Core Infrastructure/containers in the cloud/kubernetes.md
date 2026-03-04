@@ -1,3 +1,4 @@
+## KUBERNETES
 A product that helps manage and scale containerized applications is Kubernetes.
 
 So to save time and effort when scaling applications and workloads, Kubernetes can be bootstrapped using Google Kubernetes Engine (GKE).
@@ -14,18 +15,21 @@ So, what is Kubernetes?
 
 The system is divided into a set of primary components that run as the control plane and a set of nodes that run containers.
 
-In Kubernetes, a node represents a computing instance, like a machine.
-00:52
-Note that this is different to a node on Google Cloud which is a virtual machine running in Compute Engine.
-00:59
+>[!WARNING]
+>
+> In Kubernetes, a node represents a computing instance, like a machine.
+>
+> Note that this is different to a node on Google Cloud which is a virtual machine running in Compute Engine.
+
 You can describe a set of applications and how they should interact with each other, and Kubernetes determines how to make that happen.
-01:07
+
 Deploying containers on nodes by using a wrapper around one or more containers is what defines a Pod.
-01:14
-A Pod is the smallest unit in Kubernetes that you can create or deploy.
-01:18
-It represents a running process on your cluster as either a component of your application or an entire app.
-01:25
+>[!NOTE]
+>
+> A Pod is the smallest unit in Kubernetes that you can create or deploy.
+>
+> It represents a running process on your cluster as either a component of your application or an entire app.
+
 Generally, you only have one container per Pod, but if you have multiple containers with a hard
 01:30
 dependency, you can package them into a single Pod and share networking and storage resources between them.
