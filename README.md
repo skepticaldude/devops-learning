@@ -42,3 +42,6 @@ i think i should be building more, but i'll give a summary of what i've understo
 
 # Progress Update 02 mar 2026
 * setting up my cloud solution enviroment using the cymbal superstore
+
+# Progress Update 04 mar 2026 
+* started a unique lab where ill be doing a lot of activities, ill see if i can list them out here
