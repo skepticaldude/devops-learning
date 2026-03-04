@@ -39,7 +39,7 @@ The Pod provides a unique network IP and set of ports for your containers and co
 
 One way to run a container in a Pod in Kubernetes is to use the kubectl run command, which starts a Deployment with a container running inside a Pod.
 
->[!NOTE}
+>[!NOTE]
 >
 >A Deployment represents a group of replicas of the same Pod and keeps your Pods running even when the nodes they run on fail.
 >
