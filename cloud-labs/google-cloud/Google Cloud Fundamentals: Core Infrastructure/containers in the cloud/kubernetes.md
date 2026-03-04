@@ -1,17 +1,19 @@
 A product that helps manage and scale containerized applications is Kubernetes.
-00:04
+
 So to save time and effort when scaling applications and workloads, Kubernetes can be bootstrapped using Google Kubernetes Engine (GKE).
-00:13
+
 So, what is Kubernetes?
-00:17
-Kubernetes is an open-source platform for managing containerized workloads and services.
-00:23
-It makes it easy to orchestrate many containers on many hosts, scale them as microservices, and easily deploy rollouts and rollbacks.
-00:31
-At the highest level, Kubernetes is a set of APIs that you can use to deploy containers on a set of nodes called a cluster.
-00:40
+
+>[!NOTE]
+>
+> Kubernetes is an open-source platform for managing containerized workloads and services.
+>
+> It makes it easy to orchestrate many containers on many hosts, scale them as microservices, and easily deploy rollouts and rollbacks.
+>
+> At the highest level, Kubernetes is a set of APIs that you can use to deploy containers on a set of nodes called a cluster.
+
 The system is divided into a set of primary components that run as the control plane and a set of nodes that run containers.
-00:48
+
 In Kubernetes, a node represents a computing instance, like a machine.
 00:52
 Note that this is different to a node on Google Cloud which is a virtual machine running in Compute Engine.
