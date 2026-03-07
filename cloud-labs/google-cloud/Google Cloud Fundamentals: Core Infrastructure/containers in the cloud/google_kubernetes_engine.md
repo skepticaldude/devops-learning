@@ -42,10 +42,15 @@ Kubernetes provides the mechanisms through which you interact with your cluster.
 
 Kubernetes commands and resources are used to deploy and manage applications, perform administration tasks, set policies, and monitor the health of deployed workloads.
 
-Running a GKE cluster comes with the benefit of advanced cluster management features that Google Cloud provides.
+Running a GKE cluster comes with the benefit of `advanced cluster management features` that Google Cloud provides.
 
-These include: Google Cloud's load-balancing for Compute Engine instances, Node pools to designate subsets of nodes within a cluster for additional flexibility, Automatic scaling of your cluster's node instance
+These include: 
+* Google Cloud's load-balancing for Compute Engine instances
+* Node pools to designate subsets of nodes within a cluster for additional flexibility
+* Automatic scaling of your cluster's node instance count
+* Automatic upgrades for your cluster's node software
+* Node auto-repair to maintain node health and availability
+* And logging and monitoring with Google Cloud Observability for visibility into your cluster.
 
-count, Automatic upgrades for your cluster's node software, Node auto-repair to maintain node health and availability, And logging and monitoring with Google Cloud Observability for visibility into your cluster.
-
-To start up Kubernetes on a cluster in GKE, all you do is run this command: $> gcloud container clusters create k1
+>[!TIP]
+> To start up Kubernetes on a cluster in GKE, all you do is run this command: $> gcloud container clusters create k1
