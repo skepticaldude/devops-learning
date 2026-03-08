@@ -1,23 +1,23 @@
 So far in this course, we’ve provided an introduction to Google Cloud and explored the options and benefits related to using virtual machines, networks, storage, and containers in the Cloud.
-00:12
+
 In the final section of the course, we’ll turn our attention to developing applications in the Cloud.
-00:17
+
+### cloud run
+
 We’ll begin with Cloud Run, which is a managed compute platform that runs stateless containers via web requests or Pub/Sub events.
-00:27
-Cloud Run is serverless.
-00:29
-That means it removes all infrastructure management tasks so you can focus on developing applications.
-00:34
-It’s built on Knative, an open API and runtime environment built on Kubernetes.
-00:42
-It can be fully managed on Google Cloud, on Google Kubernetes Engine, or anywhere Knative runs.
-00:49
-Cloud Run is fast.
-00:50
-It can automatically scale up and down from zero almost instantaneously, and it charges only for
-00:56
-the resources used, calculated down to the nearest 100 milliseconds, so you‘ll never pay for over-provisioned resources.
-01:05
+
+> Cloud Run is serverless. That means it removes all infrastructure management tasks so you can focus on developing applications.
+> 
+> It’s built on Knative, an open API and runtime environment built on Kubernetes.
+> 
+> It can be fully managed on Google Cloud, on Google Kubernetes Engine, or anywhere Knative runs.
+> 
+> Cloud Run is fast.
+>
+> It can automatically scale up and down from zero almost instantaneously
+> it charges only for the resources used, calculated down to the nearest 100 milliseconds, so you‘ll never pay for over-provisioned resources.
+>
+
 The Cloud Run developer workflow is a straightforward three-step process.
 01:10
 First, you write your application using your favorite programming language.
