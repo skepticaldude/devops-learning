@@ -1,21 +1,19 @@
 Many applications contain event-driven parts.
-00:03
+
 For example, an application that lets users upload images.
-00:07
+
 When that event takes place, the image might need to be processed in a few different ways, like converting
-00:12
+
 the image to a standard format, converting a thumbnail into different sizes, and storing each new file in a repository.
-00:22
+
 This function could be integrated into the application, but then you’d have to provide compute resources for it–whether it happens once a millisecond or once a day.
-00:31
+
 With Cloud Run functions, you write a single-purpose function that completes the necessary image manipulations and then arrange for it to automatically run whenever a new image is uploaded.
-00:43
-Cloud Run functions is a lightweight, event-based, asynchronous compute solution that allows you to create small, single-purpose
-00:49
-functions that respond to cloud events, without the need to manage a server or a runtime environment.
-00:57
+
+> Cloud Run functions is a lightweight, event-based, asynchronous compute solution that allows you to create small, single-purpose functions that respond to cloud events, without the need to manage a server or a runtime environment.
+
 These functions can be used to construct application workflows from individual business logic tasks.
-01:03
+
 Cloud Run functions can also connect and extend cloud services.
 01:08
 You’re billed to the nearest 100 milliseconds, but only while your code is running.
