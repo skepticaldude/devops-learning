@@ -71,3 +71,13 @@ i completed a google cloud lab where i did the following;
 * created a cloud storage bucket using the gcloud storage command line
 
 * created the cloud SQL instance
+
+### Progress update 07 mar 2026
+> still getting familiar with a lot
+> understand how the images thing works
+> i think i deployed my first container today
+> i think im understanding how the requests thing works, it's just to keep the workflow as smooth as possible
+
+i completed a google clould lab called `CLOUD RUN` 
+here's the detail below; 
+
