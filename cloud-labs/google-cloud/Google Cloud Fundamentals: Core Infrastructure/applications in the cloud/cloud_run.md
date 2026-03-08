@@ -19,57 +19,57 @@ We’ll begin with Cloud Run, which is a managed compute platform that runs stat
 >
 
 The Cloud Run developer workflow is a straightforward three-step process.
-01:10
-First, you write your application using your favorite programming language.
-01:15
-This application should start a server that listens for web requests.
-01:19
-Second, you build and package your application into a container image.
-01:25
-And third, the container image is pushed to Artifact Registry, where Cloud Run will deploy it.
-01:32
+
+* First, you write your application using your favorite programming language.
+*
+* This application should start a server that listens for web requests.
+*
+* Second, you build and package your application into a container image.
+*
+* And third, the container image is pushed to Artifact Registry, where Cloud Run will deploy it.
+
 Once you’ve deployed your container image, you’ll get a unique HTTPS URL back.
-01:38
+
 Cloud Run then starts your container on demand to handle requests, and ensures that all incoming requests are handled by dynamically adding and removing containers.
-01:48
+
 Because Cloud Run is serverless, it means that you, as a developer, can focus on building your application and not on building and maintaining the infrastructure that powers it.
-01:58
+
 For some use cases, a container-based workflow is great, because it gives you a great amount of transparency and flexibility.
-02:04
+
 Sometimes, you’re just looking for a way to turn source code into an HTTPS endpoint, and you
-02:09
+
 want your vendor to make sure your container image is secure, well-configured and built in a consistent way.
-02:17
+
 With Cloud Run, you can do both.
-02:19
+
 You can use a container-based workflow, as well as a source-based workflow.
-02:24
+
 The source-based approach will deploy source code instead of a container image.
-02:28
+
 Cloud Run then builds the source and packages the application into a container image.
-02:34
+
 Cloud Run does this using Buildpacks - an open source project.
-02:39
+
 Cloud Run handles HTTPS serving for you.
-02:42
+
 That means you only have to worry about handling web requests, and you can let Cloud Run take care of adding the encryption.
-02:49
+
 The pricing model on Cloud Run is unique; as you only pay for the system resources you use
-02:53
+
 while a container is handling web requests, with a granularity of 100ms, and when it’s starting or shutting down.
-03:02
+
 You don’t pay for anything if your container doesn’t handle requests.
-03:05
+
 Additionally, there is a small fee for every one million requests you serve.
-03:10
+
 The price of container time increases with CPU and memory.
-03:14
+
 A container with more vCPU and memory is more expensive.
-03:19
+
 You can use Cloud Run to run any binary, as long as it’s compiled for Linux sixty-four bit.
-03:24
+
 Now, this means you can use Cloud Run to run web applications written using popular languages, such as: Java, Python, Node.js, PHP, Go, and C++.
-03:39
+
 You can also run code written in less popular languages, such as: Cobol, Haskell, and Perl.
-03:47
+
 As long as your app handles web requests, you’re good to go.
