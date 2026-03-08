@@ -15,15 +15,20 @@ With Cloud Run functions, you write a single-purpose function that completes the
 These functions can be used to construct application workflows from individual business logic tasks.
 
 Cloud Run functions can also connect and extend cloud services.
-01:08
+
 You’re billed to the nearest 100 milliseconds, but only while your code is running.
-01:14
+
 Cloud Run functions supports writing source code in a number of programming languages.
-01:19
-These include Node.js, Python, Go, Java, .
-01:24
-Net Core, Ruby, and PHP.
-01:29
+
+These include; 
+* Node.js
+* Python
+* Go
+* Java,
+* .Net Core
+* Ruby
+* and PHP.
+
 For more information about the supported specific version, refer to the runtimes documentation.
-01:36
+
 Events from Cloud Storage and Pub/Sub can trigger Cloud Run functions asynchronously, or you can use HTTP invocation for synchronous execution.
