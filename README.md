@@ -84,7 +84,7 @@ i completed a google cloud lab where i did the following;
 i completed a google clould lab called `CLOUD RUN` 
 here's the detail below.
 
-In this lab, you learn to:
+In this lab, i learnt to:
 
 * Enable the Cloud Run and Artifact Registry APIs.
 *	Create a simple Node.js application that can be deployed as a serverless, stateless container.
