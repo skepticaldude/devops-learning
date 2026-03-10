@@ -62,7 +62,7 @@ this is expected to output in a box type thing (a new markdown feature i learnt)
 >
 > i use my sticky notes a lot
 >
->i now understand why devs care about screen size and some have so many screens 
+> i now understand why devs care about screen size and some have so many screens 
 
 i completed a google cloud lab where i did the following; 
 
