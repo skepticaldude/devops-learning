@@ -1,4 +1,4 @@
-this file here contains a document listing two major sections the key points and reflection activity of a Software Reliablility Engineer;
+this file here contains a document listing two major sections the key points and reflection activity of a Site Reliablility Engineer;
 
 a snippet is this;
 
