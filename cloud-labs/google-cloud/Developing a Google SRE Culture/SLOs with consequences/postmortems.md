@@ -24,21 +24,21 @@ and then move on to the next without taking the time to actually learn from what
 
 To avoid doing this, SREs take a systematic approach to ensure that the team collectively learns from the incident.
 
-So what is the purpose of a postmortem?
+> So what is the purpose of a postmortem?
+>
+> A postmortem's ultimate deliverable is a written record of the incident that consists of specific parts.
+>
+* Details of the incident and its timeline.
 
-A postmortem's ultimate deliverable is a written record of the incident that consists of specific parts.
+* The actions taken to mitigate or resolve the incident.
 
-Details of the incident and its timeline.
+* The incidents impact.
 
-The actions taken to mitigate or resolve the incident.
+* It's trigger or root cause or causes.
 
-The incidents impact.
+* The follow-up actions to prevent its recurrence.
 
-It's trigger or root cause or causes.
-
-The follow-up actions to prevent its recurrence.
-
-Particularly, a blameless postmortem only focuses on the root causes of an incident without accusing a particular person or team, or their actions or behavior.
+> Particularly, a blameless postmortem only focuses on the root causes of an incident without accusing a particular person or team, or their actions or behavior.
 
 Specific people will write and review the postmortem, but everyone who had a role in the event
 
