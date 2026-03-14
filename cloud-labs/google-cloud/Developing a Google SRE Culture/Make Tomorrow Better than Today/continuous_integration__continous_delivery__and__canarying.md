@@ -102,14 +102,14 @@ So what are requirements for canarying?
 
 4. The canary deployment should not be overly complicated, and impose significant cognitive load on the operator.
 
->[!Note]
-> In other words,
-> it should be easy enough to reason about the canary process,
-> so that's easy to understand how it can impact current service health overall and
-> easy to cancel in case of problems.
+In other words,
+1. it should be easy enough to reason about the canary process,
+2. so that's easy to understand how it can impact current service health overall and
+3. easy to cancel in case of problems.
 
-It's true that these three points are to some degree in conflict with each other.
-04:55
-This generic requirements also do not include any additional requirements specific to a service.
-05:01
+>[!Note]
+> It's true that these three points are to some degree in conflict with each other.
+>
+> This generic requirements also do not include any additional requirements specific to a service.
+
 In the next video, we'll talk about the SRE cultural concepts of design thinking and prototyping, that relate to implementing gradual change.
