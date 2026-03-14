@@ -187,21 +187,21 @@ Real-time collaboration, which enables data and ideas collection.
 Open commenting annotation system, which makes crowd-sourcing solutions easy and improves coverage.
 
 E-mail notifications, which directs collaborators or as used to loop in others to provide input.
-11:07
+
 At Google, we've held numerous customers figuring out ways to employ cultural SRE practices of collaboration, communication, and knowledge sharing in their organizations.
-11:19
+
 Take a look at a top provider of online solutions in Germany.
-11:23
+
 This customer formed an SRE team, and through an on-site Google workshop on SRE culture fundamentals, they were able to identify the rules of engagement for this new team.
-11:33
+
 They highlighted the importance of reducing the number of communication channels and clearly describing what channels should be used for what purpose.
-11:42
+
 They invested in technology that help them collaborate in real-time directly in project documents via comments or chat.
-11:49
+
 They also use collaborative tools to create their SRE knowledge repository.
-11:53
+
 You can see how these SRE cultural practices are just as important as the technical practices to help produce silos within IT teams.
-12:01
+
 In the next module, the SRE journey continues with making tomorrow better than today, where
-12:07
+
 you'll learn about SRE practices that align with implementing gradual change in leveraging tooling and automation.
