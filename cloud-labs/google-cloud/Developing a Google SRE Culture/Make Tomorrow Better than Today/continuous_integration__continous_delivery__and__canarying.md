@@ -90,20 +90,24 @@ they are receiving the change, evaluating the impact to that group, then decidin
 
 If the change contains bugs, the cost is much less than if it was rolled out to the whole system and can be reversed quickly.
 
+### Requirements Canarying
+
 So what are requirements for canarying?
-04:07
-The canary population should be large enough to be a representative subset when compared to the control population.
-04:13
-The difference between the canary and the control population should, to the greatest extent, practically possible be only the production change that you are testing.
-04:23
-The canary population should be small enough to not endanger the quality of service as a whole if the canary is broken.
-04:31
-The canary deployment should not be overly complicated, and impose significant cognitive load on the operator.
-04:38
-In other words, it should be easy enough to reason about the canary process so that's easy
-04:43
-to understand how it can impact current service health overall and easy to cancel in case of problems.
-04:50
+
+1. The canary population should be large enough to be a representative subset when compared to the control population.
+
+2. The difference between the canary and the control population should, to the greatest extent, practically possible be only the production change that you are testing.
+
+3. The canary population should be small enough to not endanger the quality of service as a whole if the canary is broken.
+
+4. The canary deployment should not be overly complicated, and impose significant cognitive load on the operator.
+
+>[!Note]
+> In other words,
+> it should be easy enough to reason about the canary process,
+> so that's easy to understand how it can impact current service health overall and
+> easy to cancel in case of problems.
+
 It's true that these three points are to some degree in conflict with each other.
 04:55
 This generic requirements also do not include any additional requirements specific to a service.
