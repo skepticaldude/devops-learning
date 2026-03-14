@@ -25,22 +25,22 @@ As a result, code quality increases and critical issues can be avoided earlier.
 ## Continuous Delivery
 
 Continuous delivery just means that you can deploy to production frequently, but may choose not to, usually due to businesses preferring a slower rate of deployment.
-01:34
+
 This stage involves continuous integration, testing automation, and deployment automation.
-01:40
+
 If you think of software development as a process, you can divide it into these categories: code, build, integrate, test, release, deploy, and operate.
-01:55
+
 In agile development, the process covers code and build.
-01:59
+
 DevOps philosophy spans from code to operate.
-02:03
+
 Continuous integration and continuous delivery fill in the middle with code to test; to release and to deploy.
-02:11
-So how does the practice of CI/CD help reduce the cost of failure when implementing gradual change?
-02:17
-It helps to overcome agile transformation challenges.
-02:21
-It minimizes code integration headaches.
+
+> So how does the practice of CI/CD help reduce the cost of failure when implementing gradual change?
+
+* It helps to overcome agile transformation challenges.
+
+* It minimizes code integration headaches.
 02:24
 It reduces human error.
 02:27
