@@ -19,7 +19,7 @@ this is the documentation of my DevOps, SRE and cloud journey here on github
         * 
     * [Cloud Computing](https://github.com/skepticaldude/devops-learning/tree/main/Cloud-computing)
     * [Gemini CLI](https://github.com/skepticaldude/devops-learning/tree/main/Gemini_CLI)
-  * Progress Updates
+* Progress Updates
 
 
 
