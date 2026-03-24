@@ -98,4 +98,10 @@ ive understood more clearly that devops is a culture while Site Reliablility Eng
 
 currently im learning cloud, how to build scalable system with low cost and efficeient running of infrastructure 
 
+## progress update 24 march 2026
+
+now im doing more sessions with wsl
+working with backend api, cron and other stuff
+i'll try to talk more on this later 
+
 
