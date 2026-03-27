@@ -23,7 +23,7 @@ Set up a local web server on WSL, understand ports, HTTP requests, and automatio
    - Served a custom HTML page:
      ```html
      <h1>My First Server</h1>
-     <p>Cloud Engineer in Training 🚀</p>
+     <p>Cloud Engineer in Training </p>
      ```
 
 3. **Networking Concepts**
