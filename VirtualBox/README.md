@@ -3,4 +3,10 @@ i might include a Submenu here or not.
 
 I'm currently learning on youtube with tutorialLinux
 
+Still going over the basics; pwd, whoami, cd, ls and all that 
+
+learnt a shortcut of using tab key to auto complete flags or commands 
+
+i think ill create a sysadmin section soon 
+
 
