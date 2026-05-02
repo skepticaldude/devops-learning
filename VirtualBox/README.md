@@ -11,6 +11,7 @@ I'm currently learning on youtube with tutorialLinux
 Still going over the basics; pwd, whoami, cd, ls and all that 
 
 ### Shortcuts
-using `tab` key auto-completes flags or commands 
+
+* using `tab` key auto-completes flags or commands 
 
 
